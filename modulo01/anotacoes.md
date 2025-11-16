@@ -19,4 +19,14 @@
 ## Aula 03: Tire suas dúvidas do curso com a gente
 - https://chatgpt.com/g/g-5lw3vTPpm-cev-curso-de-ia
 
-parei: https://www.youtube.com/watch?v=Sho2hvTQxKE&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=5
+
+## Aula 04: Como uma IA funciona?
+- A ia opera através do aprendizado a partir de dados
+- aprendem com dados que processam
+- por isso é chamado de aprendizado de máquinas.
+
+https://www.youtube.com/watch?v=WrJBJsb5IDc&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=6
+
+
+modulo 02:
+https://www.youtube.com/watch?v=70z3vC9mgzo&list=PLHz_AreHm4dk0Hg99bUQMiH1dEn-qu0Hg
