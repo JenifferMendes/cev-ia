@@ -50,5 +50,16 @@ https://www.youtube.com/watch?v=70z3vC9mgzo&list=PLHz_AreHm4dk0Hg99bUQMiH1dEn-qu
 - carros autonomos
 - sistemas de recomendação
 - medicina
-- 
 
+
+## Aula 09: Desafios das Inteligências Artificiais
+- Ética sobre a privacidade dos dados e uso indevido da IA.
+- perda de empregos devido a automação.
+- fornecimento de informações incorretas.
+- justa e imparcial.
+
+
+## Aula 10: Inteligência Artificial hoje e no futuro
+- A IA é uma ferramenta poderosa com o potencial de transformar muitas áreas de nossas vidas.
+- Embora existam desafios a serem superados, as possibilidades oferecidas pela IA são emocionantes.
+- 
