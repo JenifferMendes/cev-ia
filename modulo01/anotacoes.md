@@ -75,3 +75,12 @@ https://www.youtube.com/watch?v=70z3vC9mgzo&list=PLHz_AreHm4dk0Hg99bUQMiH1dEn-qu
 - De forma semelhante, no aprendizado de máquina, um modelo de computador é "treinado" usando um conjunto de dados para, por exemplo, reconhecer padrões, fazer previsões ou tomar decisões.
 - Em resumo, o aprendizado de máquina é o coração pulsante que permite que a IA reaja e evolua em resposta ao mundo ao seu redor.
 
+## Aula 12: Crie e edite imagens com IA
+- freepik (como funciona a ferramenta)
+
+## Aula 13: Voce sabe o que é Deep Learning?
+- Deep learning, ou "aprendizado profundo" em tradução livre.
+- É uma subcategoria do aprendizado de máquina, que, por sua vez, é uma vertente da inteligência artificial.
+- Por exemplo, ao processar uma imagem, as camadas iniciais podem detectar bordas, as intermédiarias reconhecer formas e as camadas mais profundas identificar objetos.
+
+https://www.youtube.com/watch?v=dqTZCknuctk&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=16
