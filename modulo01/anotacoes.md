@@ -91,4 +91,19 @@ https://www.youtube.com/watch?v=70z3vC9mgzo&list=PLHz_AreHm4dk0Hg99bUQMiH1dEn-qu
 - Os llms ainda estão em desenvolvimento, mas já tem potencial de revolucionar a forma como interagimos com a tecnologia.
 - Os llms também podem ser usados para criar ferramentas de tradução mais precisas e eficientes.
 
+
+## Aula 15: Crie seu assistente virtual com Hugging Chat
+- basicamente ele ensinou a entrar no site para encontrar esse hugging chat, mostrou como configurar o agente e compartilhou o agente.
+
+## Aula 16: Simulando Conversas Humanas
+outros conceitos
+Chatbot - Simulando Conversas Humanas
+- chatbots são programas de computador projetados para simular conversas humanas.
+- geralmente alimentado por técnicas de processamento de linguagem natural e aprendizado de máquina, permitindo-lhe entender, responder e interagir com os usuários de forma mais natural e contextualizada.
+- enquanto os chatbots mais simples operam com base em regras predefinidas e respostas programadas, a alimentandos por IA podem aprender com interações anteriores, adaptar-se ao longo do tempo e fornecer respostas mais personalizadas.
+- os chatbots são comumente usados em atendimento ao cliente, plataformas de mensagens, websites e aplicativos, oferencendo respostas rápidas, automação e suporte 24/7
+
+
+
+
 https://www.youtube.com/watch?v=K25zMnhs3Ms&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=16
