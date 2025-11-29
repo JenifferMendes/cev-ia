@@ -83,4 +83,12 @@ https://www.youtube.com/watch?v=70z3vC9mgzo&list=PLHz_AreHm4dk0Hg99bUQMiH1dEn-qu
 - É uma subcategoria do aprendizado de máquina, que, por sua vez, é uma vertente da inteligência artificial.
 - Por exemplo, ao processar uma imagem, as camadas iniciais podem detectar bordas, as intermédiarias reconhecer formas e as camadas mais profundas identificar objetos.
 
-https://www.youtube.com/watch?v=dqTZCknuctk&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=16
+## Aula 14: LLM: A tecnologia por trás da IA textual
+- Large language Model (Modelo de linguagem em larga escala)
+- Os modelos de linguagem de grande escala(LLMs) são um tipo de inteligência artificial que são treinados em grandes quantidades de dados de texto. chatgpt/gemini
+- Esses dados podem incluir livros, artigos, codigos e outros formatos de texto.
+- Os LLMs são capazes de aprender padrões e relacionamentos no texto, o que os permite gerar texto semelhante ao humano, traduzir idiomas, escrever diferentes tipos de conteúdo criativo e responder as suas perguntas de forma informativa.
+- Os llms ainda estão em desenvolvimento, mas já tem potencial de revolucionar a forma como interagimos com a tecnologia.
+- Os llms também podem ser usados para criar ferramentas de tradução mais precisas e eficientes.
+
+https://www.youtube.com/watch?v=K25zMnhs3Ms&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=16
