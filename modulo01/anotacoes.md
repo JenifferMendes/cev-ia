@@ -104,6 +104,32 @@ Chatbot - Simulando Conversas Humanas
 - os chatbots são comumente usados em atendimento ao cliente, plataformas de mensagens, websites e aplicativos, oferencendo respostas rápidas, automação e suporte 24/7
 
 
+## Aula 17: PLN: Respondendo à Linguagem Humana 
+- Processamento de linguagem natural
+- PLN, ou processamento de linguagem natural, é um subcampo da inteligência artificial focado na interação entre computadores e linguagem humana.
+- Seu objetivo principal é permitir que máquinas entendam, interpretem e respondam à linguagem humana de uma maneira que seja tanto valiosa quanto significativa.
+- Usando técnicas de PLN, sistemas de IA podem realizar tarefas como tradução automática, análise de sentimentos, resumos automáticos e até mesmo compreensão e geração de texto complexo.
+- Por exxemplo, assistentes virtuais como Siri e Alexa dependem fortemente do PLN para entender e responder às solicitações dos usuários.
+- Em essência, o PLN busca construir pontes entre máquinas e humanos através da linguagem, tornando possível a comunicação fluida e a extração de informações valiosas dos textos.
+- É graças ao PLN que a IA pode "ler", "ouvir" e "falar" conosco.
 
+## Aula 18: Tokens: A Base da Linguagem para a IA
+- Tokens: Os tijolos fundamentais
+- No âmbito da inteligência artificial, especialmente quando se trata de PLN, um "token" refere-se a uma unidade individual de informação ou dado.
+- Geralmente, ao trabalhar com texto, um token pode ser uma palavra, uma frase ou ate'mesmo um caractere, dependendo do contexto.
+- Por exemplo, ao separar em tokens a frase "Aprendizado de máquina é fascinante", podemos obter os tokens: "Aprendizado", "de", "máquina", "é" e "fascinante".
+- tokenização é um passo fundamental em muitos processos de PLN.
+- Ao converter textos em tokens, os algoritmos de IA podem analisar, compreender e processar a linguagem humana de maneira mais eficaz.
+- Essas transformação ajuda na tarefa de identificar padrões, compreender contextos e realizar operações, como análise de sentimentos, tradução automática e muitas outras aplicações relacionadas ao texto.
+- Portanto, no contexto da ia, tokens são os "tijolos" fundamentais que permitem que máquinas entendam e manipulem a linguagem humana.
+- O chatgpt 3 processa 4096 tokens por solicitação. Isso inclui tanto o prompt quanto a resposta.
+- Por exemplo, se voce solicitar ao ChatGpt 3 para gerar um poema de 4097 palavras, ele será capaz de gerar as primeiras 4096 palavras, mas não poderá gerar a última palavra.
+- O limite de tokens foi imposto pela OpenAI para evitar o uso excessivo de recursos.
+- O chatgpt 3 é um modelo de linguagem grande e complexo, e processar um grande número de tokens pode exigir uma quantidade significativa de memória e processamento.
+- o chatgpt 4 processa até 32.768 tokens por solicitação. Isso inclui tanto o prompt quanto a resposta.
+- O gemini processa um número ilimitado de tokens por solicitação. Isso singifica que ele pode gerar texto de qualquer comprimento, desde um único token até um texto de milhões de paalavras(na epoca que eles fizeram + foi a ia que falou.)
+- O gemini é capaz de processar um número ilimitado de tokens porque é um modelo de linguagem de transformador.
+- Os transformadores são um tipo de modelo de linguagem que usa um mecanismo chamado atenção para se concentrar nas partes mais importantes do texto.
+- Isso permite que eles processem texto de qualquer comprimento sem perder o contexto.
 
 https://www.youtube.com/watch?v=K25zMnhs3Ms&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=16
