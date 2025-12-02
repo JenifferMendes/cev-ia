@@ -132,4 +132,17 @@ Chatbot - Simulando Conversas Humanas
 - Os transformadores são um tipo de modelo de linguagem que usa um mecanismo chamado atenção para se concentrar nas partes mais importantes do texto.
 - Isso permite que eles processem texto de qualquer comprimento sem perder o contexto.
 
-https://www.youtube.com/watch?v=K25zMnhs3Ms&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=16
+
+## Aula 19: Uma IA que te ajuda e cita fontes: Perplexity 
+- eles mostraram sobre a ferramenta perplexity.
+
+## Aula 20: Prompts: O Pilar da Interação em IA
+Prompts
+- No contexto da inteligência artificial, especialmente em modelos de linguagem, um "prompt" é uma instrução ou estímulo dado ao sistema para obter uma resposta ou comportamento específico.
+- Geralmente apresentado na forma de um texto ou frase, o prompt serve como um gatilho para o modelo de IA, indicando o tipo de informação ou resposta que o usuário deseja.
+- Por exemplo, ao interagir com um modelo de linguagem como o GPT da OpenAI, se você inserir o prompt "Traduza a seguinte frase para o espanhol:"
+- O modelo entenderá que deve realizar uma tarefa de tradução com base no texto subsequente fornecido.
+- Prompt são essenciais para direcionar e moldar as saídas de modelos de IA, garantindo que as respostas sejam relevantes e de acordo com as intenções do usuário.
+- Eles funcionam como uma espécie de "pergunta"ou "comando"que guia a máquina em sua resposta.
+
+https://www.youtube.com/watch?v=x6BCRy85HLA&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=22
