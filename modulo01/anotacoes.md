@@ -145,4 +145,20 @@ Prompts
 - Prompt são essenciais para direcionar e moldar as saídas de modelos de IA, garantindo que as respostas sejam relevantes e de acordo com as intenções do usuário.
 - Eles funcionam como uma espécie de "pergunta"ou "comando"que guia a máquina em sua resposta.
 
-https://www.youtube.com/watch?v=x6BCRy85HLA&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=22
+## Aula 21: Batalha de IAs: Gemini versus ChatGPT
+- Ambos são chatbots de IA.
+- Gemini é um grande modelo de linguagem (LLM) criado pelo Google AI, enquanto Chatgpt é um (LLM) criado pelo OpenAi
+- Gemini é treinado em um conjunto de dados que inclui texto de livros, artigos, código e conversas da web.
+- aula está desatualizada.
+
+## Aula 22: Duelo de Tecnologias: Chatbots versus Buscadores 
+- Embora ambos, um chatbot de IA e um buscador, operem utilizando bases de dados para fornecer respostas e interagir com os usuários, a maneira como eles acessam e usam essas informações é fundamentalmente diferente.
+- Os chatbots de IA, são treinados em um vasto conjunto de dados contendo milhoes de páginas da internet, mas eles não tem a capacidade de acessar ou recuperar informações em tempo real da internet apos o treinamento.
+- Eles não lembram ou sabem informações específicas, em vez disso, geram respostas com base nos padrões que aprenderam durante o treinamento.
+- Por outro lado, um buscador, como o google search indexa a web em tempo real e mantém um banco de dados atualizado das páginas da web existentes.
+- quando voce insere uma consulta, o buscador procura em seu indice de páginas da web para encontrar as mais relevantes e atualizadas informaçòes para sua pesquisa.
+- Diferentemente dos chatbots de IA, os buscadores tem acesso a informações da internet e podem fornecer dados atualizados e específicos.
+- Essa distinção é essencial quando se considera a precisào e a atualidade das informações fornecidas.
+- Um chatbot de IA pode ser util para fornecer respostas gerais com base em padrões de linguagem, mas para informações atualizadas ou específicas, um buscador seria a ferramenta mais adequada.
+- 
+https://www.youtube.com/watch?v=Ft6oGcG3_7g&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=24
