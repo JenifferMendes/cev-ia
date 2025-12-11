@@ -160,5 +160,22 @@ Prompts
 - Diferentemente dos chatbots de IA, os buscadores tem acesso a informações da internet e podem fornecer dados atualizados e específicos.
 - Essa distinção é essencial quando se considera a precisào e a atualidade das informações fornecidas.
 - Um chatbot de IA pode ser util para fornecer respostas gerais com base em padrões de linguagem, mas para informações atualizadas ou específicas, um buscador seria a ferramenta mais adequada.
-- 
+  
+## Aula 23: Uma IA que Organiza Suas Ideias: Napkin
+https://app.napkin.ai -> muito boaaaa!!!
+
+## Aula 24: IAs Generativas: Matemática, Metáforas e Mitos
+- As IAs de texto generativo, bastante populares hoje em dia, têm "cérebros" compostos por bilhões de "neurônios" artificiais.
+- Este arranjo desses neurônios é o que chamamos de arquitetura transformadora, um tipo complexo de rede neural. Aqui estão alguns pontos chave para entender:
+- As IAs são como grandes equações matemáticas: Em vez de uma simples equação como f(x) = xaoquadrado, imagine uma função com milhares de variáveis que resulta em milhares de possíveis respostas.
+- Esta é a essência do que essas IAs estão fazendo.
+- IAs entendem sentenças através de 'tokens': As IAs dividem o texto em pedaços menores chamados tokens, que podem ser palavras ou subpalavras.
+- Por exemplo, a frase: "Eu não gosto" pode ser dividida em "Eu", "não", "gosto".
+- Cada token é então convertido em uma série de números para que a IA possa processá-lo.
+- IAs preveem o próximo token na sequência: Baseando-se nos tokens anteriores, as IAs tentam prever o próximo token da sequência.
+- Por exemplo, depois de "Eu não gosto de", a IA poderia prever a palavra "maçãs".
+- Cada nova palavra que a IA escrever será baseada no que ela já viu e já escreveu antes.
+- IAs analisam todos os tokens simultaneamente. Ao contrário dos humanos que leem da esquerda para a direita ou da direita para a esquerda, as IAs analisam todos os tokens ao mesmo tempo.
+- parei na metade
+
 https://www.youtube.com/watch?v=Ft6oGcG3_7g&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=24
