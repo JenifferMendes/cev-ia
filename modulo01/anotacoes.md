@@ -189,7 +189,7 @@ continuação:
 - Muitas pessoas fazem isso, e pode ser um método eficaz de aprendizado.
 
 
-Aula 25: Design de Prompt: Introdução a Engenharia de Prompt
+## Aula 25: Design de Prompt: Introdução a Engenharia de Prompt
 - O ato de ensinar uma inteligência artificail (IA) a realizar uma tarefa específica é frequentemente referido como "prompting".
 - Este processo é um pouco como dar instruções a um amigo: fornecemos à IA uma série de orientações(o "prompt") e então ela se esforça para executar a tarefa solicitada.
 - Estes prompts podem ser tão simples quanto uma única pergunta - "Qual é o clima hoje?"
@@ -198,5 +198,5 @@ Aula 25: Design de Prompt: Introdução a Engenharia de Prompt
 - Essa é basicamente a essencia do "prompting"em IA: estamos dando à máquina uma tarefa para resolver e aguardando sua resposta, que será baseado no que ela aprendeu durante seu treinamento.
 - Digamos que você está lendo um artigo sobre independência do Brasil e quer rapidamente capturar as ideias principais do artigo, então você mostra para a IA o que você está lendo e pede um resumo.
 - resumo em x tamanho.
-
-https://www.youtube.com/watch?v=Ft6oGcG3_7g&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=24
+- 
+https://www.youtube.com/watch?v=_3lq1Mg4lYw&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=27
