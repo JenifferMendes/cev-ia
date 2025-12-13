@@ -178,4 +178,25 @@ https://app.napkin.ai -> muito boaaaa!!!
 - IAs analisam todos os tokens simultaneamente. Ao contrário dos humanos que leem da esquerda para a direita ou da direita para a esquerda, as IAs analisam todos os tokens ao mesmo tempo.
 - parei na metade
 
+continuação:
+- É importante notar que as palavras "pensar", "cérebro" e "neurônio" são formas de nos ajudar a entender melhor o que está acontecendo, mas são metáforas.
+- Estes modelos não estão realmente pensando, são apenas funções matemáticas complexas.
+- Eles não tem cérebros, mas sim redes neurais artificais.
+- E eles não têm neurônios biológicos,mas sim representações númericas.
+- A natureza exata dessas IAs é um tipo ativo de pesquisa e debate filosófico.
+- É fácil cair na armadilha de pensar nelas como seres pensantes semelhantes aos humanos, especialmentes com a forma como são retratados na mídia.
+- Entretanto, se achar útil pensar na IA como um "ser" para entender melhor como ela funciona, não há problema nisso.
+- Muitas pessoas fazem isso, e pode ser um método eficaz de aprendizado.
+
+
+Aula 25: Design de Prompt: Introdução a Engenharia de Prompt
+- O ato de ensinar uma inteligência artificail (IA) a realizar uma tarefa específica é frequentemente referido como "prompting".
+- Este processo é um pouco como dar instruções a um amigo: fornecemos à IA uma série de orientações(o "prompt") e então ela se esforça para executar a tarefa solicitada.
+- Estes prompts podem ser tão simples quanto uma única pergunta - "Qual é o clima hoje?"
+- Ou tão complexos quanto um trecho inteiro de texto com vários parágrafos.
+- Imagine que você está fazendo uma pergunta a um amigo muito inteligente, ou pedindo a ele para fazer algo.
+- Essa é basicamente a essencia do "prompting"em IA: estamos dando à máquina uma tarefa para resolver e aguardando sua resposta, que será baseado no que ela aprendeu durante seu treinamento.
+- Digamos que você está lendo um artigo sobre independência do Brasil e quer rapidamente capturar as ideias principais do artigo, então você mostra para a IA o que você está lendo e pede um resumo.
+- resumo em x tamanho.
+
 https://www.youtube.com/watch?v=Ft6oGcG3_7g&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=24
