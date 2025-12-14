@@ -198,5 +198,17 @@ continuação:
 - Essa é basicamente a essencia do "prompting"em IA: estamos dando à máquina uma tarefa para resolver e aguardando sua resposta, que será baseado no que ela aprendeu durante seu treinamento.
 - Digamos que você está lendo um artigo sobre independência do Brasil e quer rapidamente capturar as ideias principais do artigo, então você mostra para a IA o que você está lendo e pede um resumo.
 - resumo em x tamanho.
-- 
-https://www.youtube.com/watch?v=_3lq1Mg4lYw&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=27
+  
+
+## Aula 26: Aplicando a Engenharia de Prompt na Prática
+- Fornecendo Informações:
+- Um exemplo básico de uma instrução seria perguntar diretamente algo como: quanto é 1000x6000.
+- Nessa aula ele deu varios exemplos do que querer e como pedir pro chatgpt
+
+## Aula 27: Otimize seus estudos e pesquisas com o poder do Notebook LM
+- mostrou sobre o Notebook LM.
+- Usou um exemplo de uma tese de doutorado sobre robos hahaha e mostrou como rapidamente essa ia gerou resumo, guia de estudos e outros.
+
+
+
+https://www.youtube.com/watch?v=Hj39xHVvoj0&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=29
