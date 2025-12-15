@@ -210,5 +210,31 @@ continuação:
 - Usou um exemplo de uma tese de doutorado sobre robos hahaha e mostrou como rapidamente essa ia gerou resumo, guia de estudos e outros.
 
 
+## Aula 28: Prompts de Atuação: Atribuindo Papéis para IAs
+- prompting de atuação:
+- quando voce quer que a ia se comporte como especialista.
+- O prompting de atuação é uma técnica utilizada no controle do estilo de texto gerado por Inteligência Artificial. Essa técnica é muito versátil e oferece várias aplicações interessantes.
+- Melhoria na precisão: Pode ser usado para aumentar a precisão da IA em tarefas específicas, como resolver problemas matemáticos.
+- Controle de Estilo. Implementar o prompting de atuação é simples e envolve instruir a IA a assumir um papel específico, como "incoporar um crítico de moda" ou "agir como um especialista".
+- Ao fazer isso, a IA pode escrever com o estilo ou tom desejado e até mesmo alterar a profundidade das informações apresentadas.
+- Em resumo, o prompting de atuação é uma abordagem poderosa para moldar a maneira como a IA responde, tornando-a uma ferramenta útil em várias aplicações.
+- eles dão exemplos dos prompts
 
-https://www.youtube.com/watch?v=Hj39xHVvoj0&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=29
+## Aula 29: Aprimorando E-mails com IA: Prompts de Atuação - Parte 2
+- Ao usar uma IA para escrever um e-mail, é importante pensar no "trabalho" que você quer que ele faça.
+- O jeito como o e-mail vai sair depende do que você pedir para o robô fazer.
+- Por exemplo, digamos que você precisa mandar um email para um cliente avisando que vai haver um atraso na entrega de um produto por causa de problemas no transporte.
+- Você quer que o cliente entenda a situacão mas também não quer que ele perca a confiança no seu serviço.
+- Dependendo de como você "programa" na IA, o e-mail pode ter estilos diferentes.
+- Por exemplo, voce deseja que a IA se comporte como um especialista em comunicação, cujo estilo pode ser claro, profissional e direto ao ponto:
+- Você é um especialista em comunicação. Elabore um e-mail para seu cliente avisando sobre atraso no cronograma de entrega devido ao problemas logísticos.
+colocou os exemplos no chatgpt e gemini.
+- Peça para se comportar como um especialista em marketing para se apoiar mais na persuação, na positividade e na construção de relacionamento.
+- Você é um especialista em marketing. Elabore um e-mail para um cliente avisando sobre um atraso no cronograma de entrega devido a problemas logísticos.
+- Se comportando como um representante de atendimento ao cliente, podemos ter a um resultado mais relacional e orientado para soluções.
+- Você é um representante de atendimento ao cliente. Elabore um e-mail para um cliente avisando sobre um atraso no cronograma de entrega devido a problemas logísticos.
+- Seja ao criar um e-mail, redigir uma avaliação ou resolver um problema matemático, essa técnica pode melhorar significativamente a qualidade e a precisão do resultado.
+  À medida que avançamos no entendimento das capacidades da IA, a definição de "papel" continuará sendo uma tática crucial na engenharia de prompt.
+
+
+https://www.youtube.com/watch?v=42R_AM9LZ_o&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=31
