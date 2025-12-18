@@ -237,4 +237,17 @@ colocou os exemplos no chatgpt e gemini.
   À medida que avançamos no entendimento das capacidades da IA, a definição de "papel" continuará sendo uma tática crucial na engenharia de prompt.
 
 
-https://www.youtube.com/watch?v=42R_AM9LZ_o&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=31
+
+## Aula 30: Interações com modelos de Inteligência Artificial
+- Outra estratégia de prompt é a chamada "prompting com poucos disparos" (few-shot prompting1), que basicamente consistente em fornecer ao modelo de linguagem alguns exemplos do que se espera que ele faça.
+- este tipo de instrução permite que a iA aprenda com base nesses poucos exemplos.
+- Eles dão exemplos de como fazer prompts com exemplos do que voce quer, ou ensinar um modelo para o chatbot.
+- O uso de instruções com poucos disparos (few shot prompting) é uma estratégia eficaz que pode orientar o modelo a gerar respostas precisas e bem estruturadas.
+
+
+## Aula 31: Integração de técnicas para amplificar resultados!
+- basicamente eles juntaram as tecnicas em outros prompts para amplificar os resultados produzidos pelo chatgpt
+
+
+
+https://www.youtube.com/watch?v=AGS3qzat0is&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=33
