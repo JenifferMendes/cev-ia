@@ -249,5 +249,18 @@ colocou os exemplos no chatgpt e gemini.
 - basicamente eles juntaram as tecnicas em outros prompts para amplificar os resultados produzidos pelo chatgpt
 
 
+## Aula 32: Formalizando Prompts
+- um papel
+- instrução
+- pergunta
+- contexto
+- exemplos
+- prepare os prompts como se fosse dar ordem a algum que não conhece o contexto.
+
+
+## Aula 33: Aprenda a conversar com robôs!
+- No mundo da inteligencia artificial, existem vários tipos de modelos de linguagem que servem para diferentes objetivos. 
+- Os modelos mais usados neste cursos são o chatgpt e ogemini, que são robos de conversas que lembram das mensagens anteriores para que você possa ter um diálogo com ele.
+
 
 https://www.youtube.com/watch?v=AGS3qzat0is&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=33
